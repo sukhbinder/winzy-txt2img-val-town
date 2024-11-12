@@ -1,6 +1,6 @@
 [project]
 name = "winzy-txt2img-val-town"
-version = "0.1"
+version = "0.0.1"
 description = "Text to Image Gen Using Val Town's imggenurl "
 readme = "README.md"
 authors = [{name = "Sukhbinder Singh"}]
