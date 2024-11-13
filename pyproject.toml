@@ -10,6 +10,7 @@ classifiers = [
 ]
 dependencies = [
     "winzy",
+    "requests",
 ]
 
 [project.urls]
